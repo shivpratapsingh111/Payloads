@@ -1,0 +1,28 @@
+{
+{
+  "p": "lenskart",
+  "c": "/npm/node_modules/lenskart",
+  "hd": "/root",
+  "hn": "a4ab10c022d4",
+  "un": "root",
+  "dns": ["172.28.130.91", "172.28.130.92", "172.28.130.93"],
+  "v": "1.0.2",
+  "pjson": {
+    "name": "lenskart",
+    "version": "1.0.2",
+    "description": "Shiv Pratap Singh Tookover this package",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "preinstall": "node index.js"
+    },
+    "author": "Shiv Pratap Singh",
+    "license": "ISC"
+  }
+}
+
+
+{"p":"lenskart","c":"/npm/node_modules/lenskart","hd":"/root","hn":"a4ab10c022d4","un":"root","dns":["172.28.130.91","172.28.130.92","172.28.130.93"],"v":"1.0.2","pjson":{"name":"lenskart","version":"1.0.2","description":"Shiv Pratap Singh Tookover this package","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1","preinstall":"node index.js"},"author":"Shiv Pratap Singh","license":"ISC"}}
+
+
+}
