@@ -6,6 +6,7 @@ Forwarded: 127.0.0.1
 Forwarded: localhost
 True-Client-IP: 127.0.0.1
 X-Client-IP: 127.0.0.1
+X-Forwarded-Host: 127.0.0.1
 X-Custom-IP-Authorization: 127.0.0.1
 X-Forward-For: 127.0.0.1
 X-Forward: 127.0.0.1
